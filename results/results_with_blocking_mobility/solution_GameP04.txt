@@ -1,0 +1,14 @@
+Solving puzzle: GameP04.txt
+Execution time: 0.04 seconds
+Nodes explored: 166
+Solution found in 9 moves
+Solution path:
+Move 1: Vehicle 4 to position (0, 3)
+Move 2: Vehicle 1 to position (0, 2)
+Move 3: Vehicle 2 to position (2, 0)
+Move 4: Vehicle 1 to position (1, 2)
+Move 5: Vehicle 4 to position (0, 0)
+Move 6: Vehicle 3 to position (0, 3)
+Move 7: Vehicle 7 to position (0, 5)
+Move 8: Vehicle 6 to position (3, 3)
+Move 9: Vehicle 1 to position (4, 2)

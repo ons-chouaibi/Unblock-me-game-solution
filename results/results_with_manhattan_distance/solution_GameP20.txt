@@ -1,0 +1,15 @@
+Solving puzzle: GameP20.txt
+Execution time: 0.31 seconds
+Nodes explored: 728
+Solution found in 10 moves
+Solution path:
+Move 1: Vehicle 8 to position (3, 2)
+Move 2: Vehicle 7 to position (4, 1)
+Move 3: Vehicle 5 to position (2, 0)
+Move 4: Vehicle 9 to position (2, 2)
+Move 5: Vehicle 4 to position (0, 4)
+Move 6: Vehicle 9 to position (2, 3)
+Move 7: Vehicle 3 to position (2, 5)
+Move 8: Vehicle 8 to position (3, 3)
+Move 9: Vehicle 10 to position (5, 3)
+Move 10: Vehicle 1 to position (4, 2)

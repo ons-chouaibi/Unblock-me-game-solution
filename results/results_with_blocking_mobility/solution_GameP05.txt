@@ -1,0 +1,15 @@
+Solving puzzle: GameP05.txt
+Execution time: 0.43 seconds
+Nodes explored: 1111
+Solution found in 10 moves
+Solution path:
+Move 1: Vehicle 4 to position (1, 5)
+Move 2: Vehicle 9 to position (2, 4)
+Move 3: Vehicle 3 to position (4, 3)
+Move 4: Vehicle 2 to position (1, 0)
+Move 5: Vehicle 11 to position (0, 0)
+Move 6: Vehicle 9 to position (1, 4)
+Move 7: Vehicle 8 to position (0, 3)
+Move 8: Vehicle 6 to position (3, 3)
+Move 9: Vehicle 10 to position (5, 4)
+Move 10: Vehicle 1 to position (4, 2)

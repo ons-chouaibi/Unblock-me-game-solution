@@ -1,0 +1,21 @@
+Solving puzzle: GameP13.txt
+Execution time: 1.09 seconds
+Nodes explored: 2980
+Solution found in 16 moves
+Solution path:
+Move 1: Vehicle 6 to position (5, 0)
+Move 2: Vehicle 4 to position (4, 3)
+Move 3: Vehicle 9 to position (1, 3)
+Move 4: Vehicle 5 to position (2, 3)
+Move 5: Vehicle 1 to position (0, 2)
+Move 6: Vehicle 5 to position (2, 1)
+Move 7: Vehicle 10 to position (3, 1)
+Move 8: Vehicle 4 to position (2, 3)
+Move 9: Vehicle 3 to position (2, 4)
+Move 10: Vehicle 13 to position (3, 5)
+Move 11: Vehicle 6 to position (5, 3)
+Move 12: Vehicle 8 to position (4, 3)
+Move 13: Vehicle 7 to position (4, 0)
+Move 14: Vehicle 5 to position (2, 0)
+Move 15: Vehicle 10 to position (3, 0)
+Move 16: Vehicle 1 to position (4, 2)

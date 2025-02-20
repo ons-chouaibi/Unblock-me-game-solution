@@ -1,0 +1,29 @@
+Solving puzzle: GameP17.txt
+Execution time: 0.99 seconds
+Nodes explored: 1883
+Solution found in 24 moves
+Solution path:
+Move 1: Vehicle 7 to position (1, 1)
+Move 2: Vehicle 10 to position (5, 2)
+Move 3: Vehicle 4 to position (4, 2)
+Move 4: Vehicle 11 to position (3, 1)
+Move 5: Vehicle 12 to position (3, 5)
+Move 6: Vehicle 6 to position (3, 0)
+Move 7: Vehicle 3 to position (3, 4)
+Move 8: Vehicle 5 to position (2, 4)
+Move 9: Vehicle 9 to position (1, 3)
+Move 10: Vehicle 1 to position (1, 2)
+Move 11: Vehicle 2 to position (0, 4)
+Move 12: Vehicle 9 to position (0, 3)
+Move 13: Vehicle 7 to position (0, 1)
+Move 14: Vehicle 1 to position (0, 2)
+Move 15: Vehicle 5 to position (2, 0)
+Move 16: Vehicle 9 to position (1, 3)
+Move 17: Vehicle 1 to position (1, 2)
+Move 18: Vehicle 2 to position (0, 2)
+Move 19: Vehicle 3 to position (0, 4)
+Move 20: Vehicle 12 to position (0, 5)
+Move 21: Vehicle 11 to position (3, 3)
+Move 22: Vehicle 4 to position (4, 4)
+Move 23: Vehicle 10 to position (5, 4)
+Move 24: Vehicle 1 to position (4, 2)

@@ -1,0 +1,22 @@
+Solving puzzle: GameP10.txt
+Execution time: 0.59 seconds
+Nodes explored: 1502
+Solution found in 17 moves
+Solution path:
+Move 1: Vehicle 8 to position (3, 0)
+Move 2: Vehicle 6 to position (5, 0)
+Move 3: Vehicle 3 to position (3, 3)
+Move 4: Vehicle 1 to position (3, 2)
+Move 5: Vehicle 7 to position (2, 4)
+Move 6: Vehicle 5 to position (1, 1)
+Move 7: Vehicle 2 to position (1, 0)
+Move 8: Vehicle 11 to position (0, 0)
+Move 9: Vehicle 1 to position (1, 2)
+Move 10: Vehicle 3 to position (0, 3)
+Move 11: Vehicle 9 to position (3, 1)
+Move 12: Vehicle 12 to position (3, 5)
+Move 13: Vehicle 4 to position (3, 4)
+Move 14: Vehicle 6 to position (5, 3)
+Move 15: Vehicle 8 to position (4, 0)
+Move 16: Vehicle 9 to position (3, 0)
+Move 17: Vehicle 1 to position (4, 2)

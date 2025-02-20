@@ -1,0 +1,16 @@
+Solving puzzle: GameP06.txt
+Execution time: 0.86 seconds
+Nodes explored: 1111
+Solution found in 11 moves
+Solution path:
+Move 1: Vehicle 10 to position (2, 5)
+Move 2: Vehicle 6 to position (4, 2)
+Move 3: Vehicle 1 to position (0, 2)
+Move 4: Vehicle 9 to position (2, 0)
+Move 5: Vehicle 11 to position (5, 3)
+Move 6: Vehicle 5 to position (1, 3)
+Move 7: Vehicle 4 to position (0, 3)
+Move 8: Vehicle 10 to position (0, 5)
+Move 9: Vehicle 6 to position (4, 3)
+Move 10: Vehicle 3 to position (3, 3)
+Move 11: Vehicle 1 to position (4, 2)

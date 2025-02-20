@@ -1,0 +1,28 @@
+Solving puzzle: GameP15.txt
+Execution time: 0.21 seconds
+Nodes explored: 523
+Solution found in 23 moves
+Solution path:
+Move 1: Vehicle 14 to position (4, 5)
+Move 2: Vehicle 3 to position (0, 3)
+Move 3: Vehicle 13 to position (2, 5)
+Move 4: Vehicle 12 to position (1, 3)
+Move 5: Vehicle 1 to position (0, 2)
+Move 6: Vehicle 9 to position (2, 2)
+Move 7: Vehicle 4 to position (3, 2)
+Move 8: Vehicle 10 to position (2, 4)
+Move 9: Vehicle 11 to position (5, 2)
+Move 10: Vehicle 6 to position (4, 2)
+Move 11: Vehicle 5 to position (4, 1)
+Move 12: Vehicle 7 to position (4, 0)
+Move 13: Vehicle 4 to position (3, 0)
+Move 14: Vehicle 2 to position (0, 0)
+Move 15: Vehicle 9 to position (2, 0)
+Move 16: Vehicle 1 to position (2, 2)
+Move 17: Vehicle 3 to position (0, 2)
+Move 18: Vehicle 12 to position (1, 2)
+Move 19: Vehicle 13 to position (0, 5)
+Move 20: Vehicle 14 to position (2, 5)
+Move 21: Vehicle 6 to position (4, 3)
+Move 22: Vehicle 11 to position (5, 3)
+Move 23: Vehicle 1 to position (4, 2)
